@@ -1,0 +1,15 @@
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.csproj.AssemblyReference.cache
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.AssemblyInfoInputs.cache
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.AssemblyInfo.cs
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.csproj.CoreCompileInputs.cache
+/home/amindhome/Документы/git/TCPClientServer/Client/bin/Debug/net6.0/Client
+/home/amindhome/Документы/git/TCPClientServer/Client/bin/Debug/net6.0/Client.deps.json
+/home/amindhome/Документы/git/TCPClientServer/Client/bin/Debug/net6.0/Client.runtimeconfig.json
+/home/amindhome/Документы/git/TCPClientServer/Client/bin/Debug/net6.0/Client.dll
+/home/amindhome/Документы/git/TCPClientServer/Client/bin/Debug/net6.0/Client.pdb
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.dll
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/refint/Client.dll
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.pdb
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/Client.genruntimeconfig.cache
+/home/amindhome/Документы/git/TCPClientServer/Client/obj/Debug/net6.0/ref/Client.dll
