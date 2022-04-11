@@ -1,0 +1,7 @@
+Client/bin/
+Client/obj/
+Client/.vscode/
+
+Server/bin/
+Server/obj/
+Server/.vscode/
